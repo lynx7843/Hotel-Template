@@ -41,7 +41,17 @@ namespace Hotel_System
             string username = textBox1.Text;
             string password = textBox2.Text;
 
-            //if statement to check username and password
+            // static credentials for now, until the database is connected
+            if (username == "user" && password == "password")
+            {
+                CloseTouchKeyboard();
+                Dashboard dash = new Dashboard();
+                dash.Show();
+                this.Hide();
+                return;
+            }
+
+            MessageBox.Show("Invalid username or password.", "Sign In", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
             textBox1.Clear();
             textBox2.Clear();
