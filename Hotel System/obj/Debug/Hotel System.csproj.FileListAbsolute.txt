@@ -1,10 +1,12 @@
-D:\dev\Hotel System\Hotel System\bin\Debug\Hotel System.exe.config
-D:\dev\Hotel System\Hotel System\bin\Debug\Hotel System.exe
-D:\dev\Hotel System\Hotel System\bin\Debug\Hotel System.pdb
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.AssemblyReference.cache
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel_System.Properties.Resources.resources
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.GenerateResource.cache
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CoreCompileInputs.cache
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel System.exe
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel System.pdb
-D:\dev\Hotel System\Hotel System\obj\Debug\Hotel_System.Form1.resources
+D:/dev/Hotel System/Hotel System/bin/Debug/Hotel System.exe.config
+D:/dev/Hotel System/Hotel System/bin/Debug/Hotel System.exe
+D:/dev/Hotel System/Hotel System/bin/Debug/Hotel System.pdb
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel System.csproj.AssemblyReference.cache
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel_System.Properties.Resources.resources
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel System.csproj.GenerateResource.cache
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel System.csproj.CoreCompileInputs.cache
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel System.exe
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel System.pdb
+D:/dev/Hotel System/Hotel System/obj/Debug/Hotel_System.Form1.resources
+/home/spinx/dev/Hotel-Template/Hotel System/obj/Debug/Hotel System.exe
+/home/spinx/dev/Hotel-Template/Hotel System/obj/Debug/Hotel System.pdb
